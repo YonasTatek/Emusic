@@ -1,0 +1,70 @@
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="songs">ዘፈኖች</string>
+    <string name="albums">አልበሞች</string>
+    <string name="artists">አርቲስቶች</string>
+    <string name="genres">ዘውጎች</string>
+    <string name="folders">አቃፊዎች</string>
+    <string name="playlists">አጫዋች ዝርዝሮች</string>
+    <string name="cancel">ይሰርዙት</string>
+
+    <string name="play">ይጫወቱ</string>
+    <string name="add_to_playlist">ወደ አጫዋች ዝርዝር አክል</string>
+    <string name="go_to_album">ወደ አልበም ሂድ</string>
+    <string name="go_to_artist">ወደ አርቲስት ሂድ</string>
+    <string name="play_next">ቀጥሎ ይጫወቱ</string>
+    <string name="delete_from_device">ከመሣሪያ ሰርዝ</string>
+
+    <string name="sort_order_entry_az">ኤ-ዜድ</string>
+    <string name="sort_order_entry_za">ዜድ-ኤ</string>
+    <string name="sort_order_entry_year">አመት</string>
+    <string name="sort_order_entry_duration">ቆይታ</string>
+    <string name="sort_order_entry_number_of_songs">የዘፈኖች ብዛት</string>
+
+    <string name="number_song_add_playlist"><ns0:g example="1" id="number"> %d</ns0:g> ዘፈን ወደ አጫዋች ዝርዝር ታክሏል።</string>
+    <string name="number_songs_add_playlist"><ns0:g example="1" id="number"> %d</ns0:g> ዘፈኖች ወደ አጫዋች ዝርዝር ታክለዋል።</string>
+
+    <string name="create">ፍጠር</string>
+    <string name="delete">ሰርዝ</string>
+
+    <string name="create_new_playlist">አዲስ አጫዋች ዝርዝር ይፍጠሩ</string>
+    <string name="delete_song_prompt">ዘፈን ይሰረዝ?</string>
+    <string name="enter_playlist_name">የአጫዋች ዝርዝር ስም አስገባ…</string>
+    <string name="playlist_created">አጫዋች ዝርዝር ተፈጥሯል!</string>
+    <string name="unable_create_playlist">አጫዋች ዝርዝር መፍጠር አልተቻለም!</string>
+
+    <string name="media_playback">የሚዲያ መልሶ ማጫወት</string>
+    <string name="media_playback_controls">የሚዲያ መልሶ ማጫወት መቆጣጠሪያዎች</string>
+
+    <string name="all_songs">ሁሉም ዘፈኖች</string>
+    <string name="casting_to_x">ወደ %1$s በመውሰድ ላይ</string>
+    <string name="nothing_playing">ምንም የሚጫወት ነገር የለም።</string>
+    <string name="now_playing_format">%1$s | %2$s</string>
+
+    <string name="queue_ended">ወረፋው አልቋል</string>
+    <string name="no_song_next">ቀጥሎ ምንም ዘፈን የለም።</string>
+
+    <string name="play_song_error">ዘፈን መጫወት አልተቻለም</string>
+    <string name="shuffle_no_songs_error">የሚቀያየርባቸው ዘፈኖች የሉም</string>
+    <string name="new_playlist">አዲስ አጫዋች ዝርዝር</string>
+    <string name="lyrics">ግጥሞች</string>
+    <string name="up_next">ቀጣይ</string>
+    <string name="no_results">ምንም ውጤቶች የሉም</string>
+    <string name="search_hint">ዘፈኖችን፣ አርቲስቶችን፣ አልበሞችን ፈልግ…</string>
+
+    <string name="light">ብርሃን</string>
+    <string name="dark">ጨለማ</string>
+    <string name="black">ጥቁር</string>
+
+    <string name="settings">ቅንብሮች</string>
+    <string name="choose_start_page">በሚነሳበት ጊዜ የሚታየውን የመጀመሪያ ገጽ ይምረጡ።</string>
+    <string name="start_page">መነሻ ገጽ</string>
+    <string name="choose_theme">በመተግበሪያው ውስጥ በሙሉ ጥቅም ላይ የሚውለውን ጭብጥ ይምረጡ</string>
+    <string name="theme">ጭብጥ</string>
+
+    <string name="load_artist_image">Last.fm የአርቲስት ምስሎች</string>
+    <string name="load_album_image">Last.fm የአልበም ምስሎች</string>
+    <string name="load_artist_image_summary">የአርቲስት ምስሎችን ከLast.fm ጫን</string>
+    <string name="load_album_image_summary">የአልበም ምስሎችን ከLast.fm ጫን (በአካባቢው የማይገኝ ከሆነ ብቻ)</string>
+
+</resources>

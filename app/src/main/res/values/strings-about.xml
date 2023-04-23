@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="about_dialog_title" translatable="false">@string/app_name</string>
+  <string name="about_dialog_body"><![CDATA[
+    ይህ በሁሉም የስልኮች መጠን የሚሰራ
+    ፣ ሙሉ ለሙሉ ተለይቶ የቀረበ
+    የሙዚቃ ማጫወቻ ነው።<br/><br/>
+    በ <b>ዮናስ ታጠቅ</b> የተገነባ
+   ]]></string>
+  <string name="about_dialog_dismiss">ያሰናብቱ</string>
+
+</resources>
